@@ -1,1 +1,164 @@
-# tebakskor
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tebak Score Berhadiah Besar | Prediksi Skor Akurat & Cuan Maksimal</title>
+
+<meta name="description" content="Main Tebak Score berhadiah besar! Prediksi skor pertandingan bola dengan odds tinggi, bonus menarik, dan proses cepat. Daftar sekarang dan menangkan hadiah maksimal!">
+<meta name="keywords" content="tebak score, prediksi skor bola, taruhan skor tepat, sportsbook online, tebak skor berhadiah">
+<meta name="author" content="Tebak Score Official">
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+    color: #fff;
+}
+
+header {
+    text-align: center;
+    padding: 60px 20px;
+    background: rgba(0,0,0,0.5);
+}
+
+header h1 {
+    font-size: 48px;
+    margin-bottom: 10px;
+    color: #FFD700;
+}
+
+header p {
+    font-size: 20px;
+}
+
+section {
+    padding: 50px 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    color: #FFD700;
+    margin-bottom: 20px;
+}
+
+.card {
+    background: rgba(255,255,255,0.08);
+    padding: 25px;
+    margin-bottom: 25px;
+    border-radius: 10px;
+}
+
+ul {
+    line-height: 1.8;
+}
+
+.btn {
+    display: inline-block;
+    padding: 15px 35px;
+    background: #FFD700;
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 50px;
+    margin-top: 20px;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    background: #fff;
+}
+
+.cta {
+    text-align: center;
+    padding: 60px 20px;
+    background: #000;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    background: #111;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>⚽ TEBAK SCORE BERHADIAH BESAR 🎯</h1>
+    <p>Prediksi Skor Akurat • Odds Tinggi • Cuan Maksimal</p>
+    <a href="#" class="btn">🔥 MAIN SEKARANG</a>
+</header>
+
+<section>
+    <h2>🏆 Apa Itu Tebak Score?</h2>
+    <div class="card">
+        <p>
+        Tebak Score adalah permainan prediksi skor akhir pertandingan sepak bola
+        dengan hadiah besar untuk setiap tebakan yang tepat 100%.
+        Cocok untuk pecinta bola yang percaya pada analisa, statistik, dan insting tajam.
+        </p>
+        <p>
+        Semakin tepat prediksi Anda, semakin besar potensi kemenangan yang bisa diraih.
+        Dengan sistem odds tinggi dan proses cepat, Tebak Score menjadi pilihan favorit
+        para pecinta sportsbook online.
+        </p>
+    </div>
+</section>
+
+<section>
+    <h2>💡 Cara Main Tebak Score</h2>
+    <div class="card">
+        <ul>
+            <li>1️⃣ Pilih pertandingan favorit Anda</li>
+            <li>2️⃣ Tentukan skor akhir (contoh: 2-1, 1-0, 3-2)</li>
+            <li>3️⃣ Pasang sebelum kick-off dimulai</li>
+            <li>4️⃣ Jika skor tepat 100% → Menang Besar! 💸</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>🎁 Keuntungan Bermain</h2>
+    <div class="card">
+        <ul>
+            <li>✔️ Odds tinggi & kompetitif</li>
+            <li>✔️ Bisa pasang lebih dari 1 pertandingan</li>
+            <li>✔️ Proses cepat & user friendly</li>
+            <li>✔️ Support 24 Jam non-stop</li>
+            <li>✔️ Bonus & promo menarik setiap hari</li>
+        </ul>
+    </div>
+</section>
+
+<section>
+    <h2>🚀 Kenapa Harus Main Sekarang?</h2>
+    <div class="card">
+        <p>
+        Pertandingan besar hadir setiap hari dari liga top dunia seperti Premier League,
+        Liga Champions, dan kompetisi internasional lainnya.
+        Jangan lewatkan peluang emas untuk mengubah satu prediksi menjadi kemenangan besar!
+        </p>
+        <p>
+        Tebak Score bukan hanya soal keberuntungan, tapi tentang analisa cerdas
+        dan membaca jalannya pertandingan.
+        </p>
+    </div>
+</section>
+
+<div class="cta">
+    <h2>📲 DAFTAR & PASANG SEKARANG!</h2>
+    <p>Amankan prediksi Anda sebelum pertandingan dimulai.</p>
+    <a href="#" class="btn">🔥 GABUNG & MENANGKAN HADIAH</a>
+</div>
+
+<footer>
+    © 2026 Tebak Score Official | Semua Hak Dilindungi
+</footer>
+
+</body>
+</html>
